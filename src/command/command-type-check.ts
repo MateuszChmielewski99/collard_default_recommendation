@@ -1,4 +1,4 @@
-import { RecommendMoviesCommand } from './RecommendMovies.command';
+import { RecommendMoviesCommand } from 'collard_movies_model';
 export const IsRecommendMovieCommand = (
   command: any
 ): command is RecommendMoviesCommand => {

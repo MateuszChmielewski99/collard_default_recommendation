@@ -1,5 +1,5 @@
 import { container } from 'tsyringe';
-import { RecommendMoviesCommand } from './command/RecommendMovies.command';
+import { RecommendMoviesCommand } from 'collard_movies_model';
 import { CommandDispatcher } from './handlers/command-dispatcher/CommandDispatcher';
 import { ICommandDispatcher } from './handlers/command-dispatcher/ICommandDispatcher';
 import { ICommandHandler } from './handlers/ICommandHandler';

@@ -2612,10 +2612,10 @@ coa@^2.0.2:
     chalk "^2.4.1"
     q "^1.1.2"
 
-collard_movies_model@^0.1.10:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/collard_movies_model/-/collard_movies_model-0.1.10.tgz#6573889d9dbd4c6807c1d749a4c827a139051beb"
-  integrity sha512-ICe8ysppyRBTPmlXHfeMZ1Xrd7lJVqVQWBueoYfFg3g395uwaqMHZY3htaWJRTdushVgBElLt2SGQ1HcRH5gtg==
+collard_movies_model@^0.1.12:
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/collard_movies_model/-/collard_movies_model-0.1.12.tgz#95ee04882e0943281195f7b7c1349245ca35b863"
+  integrity sha512-7Qgeo8+sSNk0Haihx57PDSHq9ZeEFC9STfAScIUtuZbW/Oo85CrlgmBAs9RHK4o2uMhBaxNAuHISh+hFqEH1og==
 
 collect-v8-coverage@^1.0.0:
   version "1.0.1"

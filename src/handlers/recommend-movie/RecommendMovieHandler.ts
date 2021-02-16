@@ -1,6 +1,6 @@
 import { MovieReference } from 'collard_movies_model';
 import { inject, injectable } from 'tsyringe';
-import { RecommendMoviesCommand } from '../../command/RecommendMovies.command';
+import { RecommendMoviesCommand } from 'collard_movies_model';
 import { IMovieRepository } from '../../repositories/movie-repository/IMovieReposistory';
 import { IUserRepository } from '../../repositories/user-repository/IUserRepository';
 import { RecommendationMovieRef } from '../../types/RecommendationMovieRef';
